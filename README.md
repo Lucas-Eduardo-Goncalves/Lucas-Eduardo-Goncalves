@@ -3,9 +3,9 @@
 - 🔭 Sou desenvolvedor fullstack javascript
 
 <div>
-  <a href="https://github.com/LucasEduardoGoncalves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasEduardoGoncalves&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEduardoGoncalves&layout=compact&langs_count=7&theme=vue"/>
+  <a href="https://github.com/Lucas-Eduardo-Goncalves">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Eduardo-Goncalves&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Eduardo-Goncalves&layout=compact&langs_count=7&theme=vue"/>
 </div>
   
 <div style="display: inline_block"><br>
