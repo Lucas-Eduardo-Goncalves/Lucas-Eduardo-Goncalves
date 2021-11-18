@@ -1,6 +1,6 @@
 ### Olá! Eu sou Lucas Gonçalves 👋
 
-- 🔭 Sou desenvolvedor fullstack javascript
+- 🔭 Sou desenvolvedor front-end cursando (ux) and (ui)
 
 <div>
   <a href="https://github.com/Lucas-Eduardo-Goncalves">
