@@ -1,6 +1,6 @@
 ### Olá! Eu sou Lucas Gonçalves 👋
 
-- 🔭 Sou desenvolvedor front-end cursando (ux) and (ui)
+- 🔭 Sou um simples estudante de front-end e (ux), (ui)
 
 <div>
   <a href="https://github.com/Lucas-Eduardo-Goncalves">
