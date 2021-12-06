@@ -1,6 +1,6 @@
 ### Olá! Eu sou Lucas Gonçalves 👋
 
-- 🔭 Sou um simples estudante de front-end e (ux), (ui)
+- 🔭 Sou um simples estudante determinado a ser fullstack JS.
 
 <div>
   <a href="https://github.com/Lucas-Eduardo-Goncalves">
@@ -9,17 +9,19 @@
   </a>
   
 </div>
-  
-<div style="display: inline_block"><br>
+
+<br/>
+
+<div style="display: inline_block">
+  - Tenho dominio em:  
+  <br/>
+  <br/>
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  #
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  #
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  #
   <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
   
