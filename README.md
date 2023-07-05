@@ -13,22 +13,29 @@
 <br/>
 
 <div style="display: inline_block">
-  - Tenho dominio em:  
-  <br/>
-  <br/>
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Lucas-Ts" height="40" width="40" src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4">
-  <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <h2>Tenho dominio em: </h2>  
+  <div align="center">
+    <img style="max-width: 100%;" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img style="max-width: 100%;" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img style="max-width: 100%;" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img style="max-width: 100%;" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img style="max-width: 100%;" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img style="max-width: 100%;" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img style="max-width: 100%;" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+  <img style="max-width: 100%;" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    <img style="max-width: 100%;" src="https://img.shields.io/badge/Remix-483285?style=for-the-badge&logo=remix&logoColor=white"/>
+    <img style="max-width: 100%;" src="https://img.shields.io/badge/Firebase-F9CB31?style=for-the-badge&logo=firebase&logoColor=black"/>
+     <img style="max-width: 100%;" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+     <img style="max-width: 100%;" src="https://img.shields.io/badge/Chakra UI-81E6DA?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
+  </div>
 </div>
-  
-  ##
  
-<div> 
-  <a href="https://www.instagram.com/lukasedugoncalves/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div style="display: inline_block">
+  <h2>Minhas redes sociais: </h2>  
+  
+  <div>
+    <a href="https://www.instagram.com/lukasedugoncalves/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/pY68VW2x47" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lucasgoncalvesgithub@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </div>
 </div>
